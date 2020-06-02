@@ -1,2 +1,2 @@
-# hngi1-task
-firsrt github task by HNGi7
+# hngi7-task
+first github task by HNGi7
